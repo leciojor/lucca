@@ -4,7 +4,7 @@
 we will never forget you ! :)
 
 
-bash```
+```
 pyinstaller --onefile \
 --add-data "assets/90DD7B9E--2.jpg:assets" \
 --add-data "assets/298B6100--2.jpg:assets" \
